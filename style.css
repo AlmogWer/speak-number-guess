@@ -46,3 +46,12 @@ p {
   padding: 10px;
   border-radius: 100px;
 }
+
+button {
+  font-size: 30px;
+  border: 0;
+  padding: 15px 25px;
+  border-radius: 50px;
+  background: rgba(255, 255, 255, 0.616);
+  cursor: pointer;
+}
